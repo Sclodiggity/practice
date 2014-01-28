@@ -1,2 +1,3 @@
 This contains things I learned yesterday.
 I learned how to read in a file with python
+I learned what a mathematical set is
